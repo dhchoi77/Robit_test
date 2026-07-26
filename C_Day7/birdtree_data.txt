@@ -1,0 +1,9 @@
+BIRDTREE_V1
+NODE_COUNT|4
+OBS_COUNT|14
+NODE|0|-1|tit
+NODE|1|0|sparrow
+NODE|2|0|parus
+OBS|2|12|2026|7|26||
+OBS|2|13|2007|3|31|gimpo|
+NODE|3|-1|eaggle
